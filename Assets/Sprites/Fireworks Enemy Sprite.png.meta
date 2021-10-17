@@ -1,0 +1,1102 @@
+fileFormatVersion: 2
+guid: bc7dda585ce42402dadbb17e0f204120
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5409312032094584093
+    second: Fireworks Enemy Sprite_0
+  - first:
+      213: -6352502159923830325
+    second: Fireworks Enemy Sprite_1
+  - first:
+      213: -7584132208071168095
+    second: Fireworks Enemy Sprite_2
+  - first:
+      213: 5872511251783202219
+    second: Fireworks Enemy Sprite_3
+  - first:
+      213: -3170295124283253810
+    second: Fireworks Enemy Sprite_4
+  - first:
+      213: 3476193030314346151
+    second: Fireworks Enemy Sprite_5
+  - first:
+      213: -2584422959503757019
+    second: Fireworks Enemy Sprite_6
+  - first:
+      213: 1794997555280680379
+    second: Fireworks Enemy Sprite_7
+  - first:
+      213: 8907665702305435905
+    second: Fireworks Enemy Sprite_8
+  - first:
+      213: 6866920153237623387
+    second: Fireworks Enemy Sprite_9
+  - first:
+      213: 8297370565792681841
+    second: Fireworks Enemy Sprite_10
+  - first:
+      213: -1952399277455471458
+    second: Fireworks Enemy Sprite_11
+  - first:
+      213: -4261357690140488151
+    second: Fireworks Enemy Sprite_12
+  - first:
+      213: 6404841691253035924
+    second: Fireworks Enemy Sprite_13
+  - first:
+      213: 4387804083817212099
+    second: Fireworks Enemy Sprite_14
+  - first:
+      213: -8674742391244500678
+    second: Fireworks Enemy Sprite_15
+  - first:
+      213: 4003992390115736723
+    second: Fireworks Enemy Sprite_16
+  - first:
+      213: -156955052142130074
+    second: Fireworks Enemy Sprite_17
+  - first:
+      213: 8946370160454871637
+    second: Fireworks Enemy Sprite_18
+  - first:
+      213: 8596528748846806798
+    second: Fireworks Enemy Sprite_19
+  - first:
+      213: -4364050274683626250
+    second: Fireworks Enemy Sprite_20
+  - first:
+      213: -5801851079649820744
+    second: Fireworks Enemy Sprite_21
+  - first:
+      213: 1623112694623716001
+    second: Fireworks Enemy Sprite_22
+  - first:
+      213: 9092386808124949654
+    second: Fireworks Enemy Sprite_23
+  - first:
+      213: 8397005786517034716
+    second: Fireworks Enemy Sprite_24
+  - first:
+      213: -4413263649868717347
+    second: Fireworks Enemy Sprite_25
+  - first:
+      213: 3170364011505049842
+    second: Fireworks Enemy Sprite_26
+  - first:
+      213: -4021612812177056555
+    second: Fireworks Enemy Sprite_27
+  - first:
+      213: 7181263668605017549
+    second: Fireworks Enemy Sprite_28
+  - first:
+      213: -6546107705485100229
+    second: Fireworks Enemy Sprite_29
+  - first:
+      213: -5355564525032351267
+    second: Fireworks Enemy Sprite_30
+  - first:
+      213: -5386323926704457553
+    second: Fireworks Enemy Sprite_31
+  - first:
+      213: 3739602991154659225
+    second: Fireworks Enemy Sprite_32
+  - first:
+      213: -2736972886680718450
+    second: Fireworks Enemy Sprite_33
+  - first:
+      213: -3501275496967427645
+    second: Fireworks Enemy Sprite_34
+  - first:
+      213: 3706976245927030286
+    second: Fireworks Enemy Sprite_35
+  - first:
+      213: 2705194837280783592
+    second: Fireworks Enemy Sprite_36
+  - first:
+      213: 3101586474701250509
+    second: Fireworks Enemy Sprite_37
+  - first:
+      213: 6545189632777221205
+    second: Fireworks Enemy Sprite_38
+  - first:
+      213: -2334994338362809682
+    second: Fireworks Enemy Sprite_39
+  - first:
+      213: 6503955266609635756
+    second: Fireworks Enemy Sprite_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 387
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d7e3822acb11b40800000000000000
+      internalID: 5409312032094584093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 385
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1a6da41f067d7a0800000000000000
+      internalID: -6352502159923830325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 385
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afa15070ffbfb690800000000000000
+      internalID: -7584132208071168095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 386
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5b50e9ed95f7150800000000000000
+      internalID: 5872511251783202219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 387
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb91f3a169d004d0800000000000000
+      internalID: -3170295124283253810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 387
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a64396b42bed3030800000000000000
+      internalID: 3476193030314346151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 325
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5213a6dd209422cd0800000000000000
+      internalID: -2584422959503757019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 326
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5133724cc19e810800000000000000
+      internalID: 1794997555280680379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 321
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10198dbe2c26e9b70800000000000000
+      internalID: 8907665702305435905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 321
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5213b23f733c4f50800000000000000
+      internalID: 6866920153237623387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 321
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fcad7719e262370800000000000000
+      internalID: 8297370565792681841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 321
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c898f833fa7e4e0800000000000000
+      internalID: -1952399277455471458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 295
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e0c4a22cd9cd4c0800000000000000
+      internalID: -4261357690140488151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 293
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493dfb9759192e850800000000000000
+      internalID: 6404841691253035924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 291
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8eeef019c94ec30800000000000000
+      internalID: 4387804083817212099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 271
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3159d381cf1d9780800000000000000
+      internalID: -8674742391244500678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 270
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c37306dd9019730800000000000000
+      internalID: 4003992390115736723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 268
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c8d5f263262ddf0800000000000000
+      internalID: -156955052142130074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 231
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a2113d244e72c70800000000000000
+      internalID: 8946370160454871637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 229
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e077278c9510d4770800000000000000
+      internalID: 8596528748846806798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 227
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc598b9567cf63c0800000000000000
+      internalID: -4364050274683626250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 207
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf71cdbe2fab7fa0800000000000000
+      internalID: -5801851079649820744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 206
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a249796564768610800000000000000
+      internalID: 1623112694623716001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 204
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6944cb2e0a5ae2e70800000000000000
+      internalID: 9092386808124949654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 150
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd65f3a0648288470800000000000000
+      internalID: 8397005786517034716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 150
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd26e69c710f0c2c0800000000000000
+      internalID: -4413263649868717347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 149
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0e07a65456ffb20800000000000000
+      internalID: 3170364011505049842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 163
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcd60a647c5038c0800000000000000
+      internalID: -4021612812177056555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 162
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdde953249f8a360800000000000000
+      internalID: 7181263668605017549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 160
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bfc1189bd8725a0800000000000000
+      internalID: -6546107705485100229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 86
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd953c180763da5b0800000000000000
+      internalID: -5355564525032351267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 86
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8f7973deeef35b0800000000000000
+      internalID: -5386323926704457553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 85
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ff2c07b1db5e330800000000000000
+      internalID: 3739602991154659225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 94
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83358129a1540ad0800000000000000
+      internalID: -2736972886680718450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c92a7e6c78f86fc0800000000000000
+      internalID: -3501275496967427645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 89
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0eaa495143d17330800000000000000
+      internalID: 3706976245927030286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 15
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec775c2f58ca8520800000000000000
+      internalID: 2705194837280783592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 14
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf59b0477c0b0b20800000000000000
+      internalID: 3101586474701250509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 12
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55471490b4f25da50800000000000000
+      internalID: 6545189632777221205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 12
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea22655450f689fd0800000000000000
+      internalID: -2334994338362809682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireworks Enemy Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 12
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca16c450bd0b24a50800000000000000
+      internalID: 6503955266609635756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
